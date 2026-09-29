@@ -1,0 +1,251 @@
+﻿id,nama_kos,kota,kecamatan,harga,jenis_kos,wifi,ac,kipas,kasur,lemari,meja,kamar_mandi_dalam,parkir_motor,parkir_mobil,dapur,cctv,keamanan,dekat_transportasi
+1,Kost Singgahsini PIM Margonda Raya,Depok,Beji,1400000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,tidak,ya
+2,Kost Pondok Nurul Janah,Depok,Beji,750000,Putri,ya,tidak,tidak,Ya,Ya,ya,tidak,ya,tidak,ya,tidak,tidak,ya
+3,Kost Serasa Kamar Sendiri,Depok,Beji,1200000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+4,Kost Happy House Tipe Vip,Depok,Beji,900000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+5,Kost pondokan Salina Tipe A,Depok,Beji,710000,Putri,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+6,Kost Pondok Amanah Executive,Depok,Beji,700000,Putra,ya,tidak,tidak,ya,tidak,ya,ya,ya,tidak,tidak,ya,ya,ya
+7,Kost Griya Dzyfa Tipe C,Depok,Beji,1450000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+8,Kost Ibu Eeng Pondok Cina,Depok,Beji,1550000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak,ya
+9,Kost Pondok Rindang Tipe A,Depok,Beji,700000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,tidak,ya
+10,Kost Rumah Loe Loe Tipe A,Depok,Beji,1500000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+11,Kost Pondok Rindang 2,Depok,Beji,1000000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,tidak,ya
+12,Kost Pondok Rindang Tipe B,Depok,Beji,1000000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+13,Kost Griya Dzyfa Tipe A,Depok,Beji,1000000,Putri,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,ya,tidak,tidak,ya
+14,Kost Wisma Verona Tipe D,Depok,Beji,1550000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+15,Kost Griya Dzyfa Tipe B,Depok,Beji,1000000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+16,Kost Wisma Verona Tipe C,Depok,Beji,1450000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+17,Kost Wisma Verona Tipe E,Depok,Beji,1125000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+18,Kost Pondok Sofura Beji,Depok,Beji,1100000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,ya,ya
+19,Kost Pondok Rindang Tipe C,Depok,Beji,1500000,Putra,tidak,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,tidak,ya
+20,Kost Singgahsini Ella Margonda Tipe D,Depok,Beji,875000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+21,Kost Singgahsini Ella Margonda Tipe A,Depok,Beji,1325000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+22,Kost Singgahsini Ella Margonda Tipe C,Depok,Beji,1025000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+23,Kost Singgahsini Ella Margonda Tipe B,Depok,Beji,1165000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,tidak,ya
+24,Kost Margonda Residence,Depok,Beji,4300000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+25,Kost Haji Ayub Achmad,Depok,Beji,700000,Putri,ya,tidak,tidak,ya,ya,tidak,ya,ya,ya,ya,tidak,ya,ya
+26,Kost Mustopa Tipe A,Depok,Beji,800000,Putri,tidak,tidak,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,ya
+27,Kost Mares Tipe A,Depok,Beji,1500000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+28,Kost Mares Tipe B,Depok,Beji,1700000,Campur,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+29,Kost Mares Tipe C,Depok,Beji,1900000,Campur,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+30,Kost Pak Wawan Tipe,Depok,Beji,700000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,ya,tidak,ya,tidak
+31,Kost Greenliving Tipe A,Depok,Beji,1000000,Putri,tidak,tidak,tidak,ya,ya,tidak,tidak,ya,ya,ya,tidak,tidak,tidak
+32,Kost Karya Bakti,Depok,Beji,1300000,Putra,ya,ya,tidak,ya,tidak,tidak,ya,ya,ya,ya,ya,ya,tidak
+33,Kost Kosisti Tipe A Pondok Cina,Depok,Beji,700000,Putri,ya,tidak,tidak,ya,ya,tidak,tidak,ya,tidak,ya,ya,tidak,tidak
+34,Kost Wisma Violet 56 Tipe A,Depok,Beji,1000000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+35,Kost Cdk Tipe A,Depok,Beji,500000,Putra,tidak,tidak,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,tidak,tidak
+36,Kost Kosisti 2 Pondok Cina,Depok,Beji,900000,Putri,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,tidak
+37,Kost Ciputra I Tipe VIP,Depok,Beji,850000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak
+38,Kost Tahfidh Quran,Depok,Beji,900000,Putri,tidak,tidak,tidak,ya,ya,tidak,tidak,ya,tidak,tidak,ya,ya,tidak
+39,Rumah Kontrakan Sumarni,Depok,Beji,2000000,Campur,tidak,ya,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,tidak
+40,Kost Rafflesia,Depok,Beji,1200000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,tidak
+41,Kost Pak Taufik,Depok,Beji,650000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+42,Kost Edelweiss Residence Tipe A,Depok,Beji,1700000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+43,Kost H Rusdi,Depok,Beji,750000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+44,Kost Gardenia Standard A,Depok,Beji,750000,Putri,tidak,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+45,Kost Pondok Rakyat Tipe A,Depok,Beji,800000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,ya,tidak
+46,Kost Home Standar,Depok,Beji,650000,Putra,ya,tidak,tidak,ya,ya,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+47,Kost Ykm Hanif Residence Tipe Twin,Depok,Beji,2000000,Putri,ya,ya,tidak,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak
+48,Kost Ykm Hanif Residence Tipe A Executive,Depok,Beji,1400000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak
+49,Kost Alya Pak Yunus,Depok,Beji,800000,Putri,tidak,tidak,tidak,ya,ya,ya,ya,tidak,tidak,tidak,tidak,ya,tidak
+50,Kost Lembah Citra,Depok,Beji,700000,Putra,tidak,tidak,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,ya,tidak
+51,Kost Sugi Kelapa Dua,Depok,Cimanggis,1200000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+52,Kost Rs Citra Arafiq Tipe B,Depok,Cimanggis,650000,Putra,tidak,tidak,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,tidak
+53,Kost Pondok Laras,Depok,Cimanggis,700000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+54,Kost Bu Sasa 2 Tipe A,Depok,Cimanggis,1150000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+55,Kost Martini Tipe B,Depok,Cimanggis,1000000,Putri,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,tidak,ya,tidak
+56,Kost Martini Tipe A,Depok,Cimanggis,1200000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,tidak,ya,tidak
+57,Kost Amalia Exclusive Vip Medium,Depok,Cimanggis,1200000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+58,Kost R,Depok,Cimanggis,750000,Putra,tidak,tidak,tidak,ya,tidak,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+59,Kost Amalia Exclusive Vip Small,Depok,Cimanggis,1000000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak
+60,Kost Livin House Anita Executive,Depok,Cimanggis,2475000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+61,Kost New Batavia Mansion Kutek,Depok,Cimanggis,1550000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+62,Kost Pondok Mima,Depok,Cimanggis,1500000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+63,Kost Wisma Siloyo | Tipe Deluxe,Depok,Cimanggis,1800000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+64,Kost Cozy Corner Tipe A,Depok,Cimanggis,2000000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+65,Kost Libra Tipe B,Depok,Cimanggis,2100000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+66,Kost Awania Residences Tipe A,Depok,Cimanggis,1400000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+67,Kost T5 Tipe Standar,Depok,Cimanggis,1100000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+68,Kost Rumo Haya Tipe Lantai 2,Depok,Cimanggis,1850000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+69,Kost Puri Lebak 1 Tipe A,Depok,Cimanggis,1300000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+70,Kost Pondok Sapuluh AC 1,Depok,Cimanggis,1150000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+71,Kost Enny Murniati Tipe A,Depok,Cimanggis,1500000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak
+72,Kost Samitra Tipe AC,Depok,Cimanggis,1500000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+73,Kost Rumah Syandana Tipe Non AC,Depok,Cimanggis,1100000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+74,Kost Rumah Sadara Tipe Non AC,Depok,Cimanggis,1100000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+75,Kost Rumah Syandana Tipe NON AC S,Depok,Cimanggis,1050000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+76,Kost Pondok Pelangi 1 Tipe A,Depok,Cimanggis,700000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+77,Kost Prilega Kelapa Dua,Depok,Cimanggis,1300000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+78,Kost Puri Lebak 1 Tipe E,Depok,Cimanggis,650000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+79,Kost Alhidayah Double,Depok,Cimanggis,1200000,Putra,tidak,tidak,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,tidak,ya
+80,Kost Pondok Pelangi 3,Depok,Cimanggis,800000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+81,Kost Pondok Pelangi 2,Depok,Cimanggis,800000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+82,Kost Pondok Pelangi 1 Tipe B,Depok,Cimanggis,750000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+83,Kost Yos,Depok,Cimanggis,700000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+84,Kost Graha Rahayu Tipe A,Depok,Cimanggis,1150000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak
+85,Kost Gardenia,Depok,Cimanggis,700000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,tidak
+86,Kost Heirloom Tipe C,Depok,Cimanggis,1300000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,tidak
+87,Kost Woody Tipe Small,Depok,Cimanggis,850000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,ya,ya,ya,ya,tidak
+88,Kost Puri Lebak 1 Tipe C,Depok,Cimanggis,600000,Putra,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+89,Kost Woody Tipe Besar,Depok,Cimanggis,1000000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,ya,ya,ya,ya,tidak
+90,Kost Aira Homes Tipe A,Depok,Cimanggis,900000,Putri,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+91,Kost Kin 1 Tipe a,Depok,Cimanggis,710000,Putri,ya,tidak,tidak,ya,ya,ya,tidak,ya,ya,ya,tidak,ya,ya
+92,Kost Woody Tipe Lebar B,Depok,Cimanggis,900000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,ya,ya,ya,ya,ya
+93,Kost Salwa Tipe Standar,Depok,Cimanggis,650000,Putra,ya,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,tidak
+94,Kost Pondok Puspita Tipe A,Depok,Cimanggis,600000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+95,Kost Rumabaya Tipe B,Depok,Cimanggis,1150000,Putri,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+96,Kost Saryati TIpe 1 AC,Depok,Cimanggis,1150000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+97,Kost AJ Komplek Koperasi,Depok,Cimanggis,1100000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,tidak,ya
+98,Kost Rumabata Tipe C,Depok,Cimanggis,750000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+99,Kost Annisa Tipe A,Depok,Cimanggis,1200000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+100,Kost Rajasa,Depok,Cimanggis,700000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak
+101,Kost Growing House Jatijajar Tipe Deluxe,Depok,Tapos,1300000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,ya
+102,Kost Sweet Jatijajar Tipe A,Depok,Tapos,1500000,Campur,ya,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,ya,ya
+103,Kost Growing House Jatijajar Tipe Luxury,Depok,Tapos,1900000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+104,Kost Balni House Jatijajar Tipe Deluxe,Depok,Tapos,1150000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+105,Kost Growing House Jatijajar Tipe Standart A,Depok,Tapos,900000,Putri,ya,tidak,tidak,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+106,Kost Balni House Jatijajar Tipe Standard,Depok,Tapos,750000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+107,Kost Shaquira House Tipe A1,Depok,Tapos,1000000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+108,Kost Sweet Jatijajar Tipe B,Depok,Tapos,1500000,Campur,ya,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,ya,ya
+109,Rumah Kontrakan Nuraini,Depok,Tapos,1500000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,ya,ya
+110,Kost Sweet Jatijajar Tipe C,Depok,Tapos,1650000,Campur,ya,ya,tidak,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya
+111,Kost Sweet Jatijajar Tipe Aa,Depok,Tapos,1200000,Campur,ya,tidak,tidak,ya,ya,tidak,tidak,ya,ya,tidak,ya,ya,ya
+112,Kost Azizah Jatijajar Tipe A,Depok,Tapos,920000,Putri,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya
+113,Kost RF 99 Tipe A,Depok,Tapos,1500000,Campur,tidak,ya,tidak,tidak,tidak,tidak,ya,ya,ya,ya,ya,ya,ya
+114,Kost 17,Depok,Tapos,700000,Putri,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,ya,tidak,tidak,ya
+115,Kost Pondok Ar Rahman Tipe A,Depok,Tapos,850000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,tidak
+116,Kost Angin Semilir Tapos,Depok,Tapos,900000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+117,Kost Amalia,Depok,Tapos,800000,Putri,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya
+118,Kost Bu Thomas,Depok,Tapos,600000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,ya,ya,tidak,tidak,tidak
+119,Kost BCI 1 Tipe A,Depok,Tapos,1350000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+120,Kost Treehaus Living Tipe A,Depok,Tapos,1800000,Campur,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+121,Kost Uti,Depok,Tapos,1500000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,tidak,tidak,tidak,ya
+122,Kost Budi,Depok,Tapos,1100000,Putra,ya,ya,tidak,tidak,tidak,tidak,tidak,ya,tidak,ya,tidak,ya,ya
+123,Kost Treehaus Living Standard Room Tapos Depok,Depok,Tapos,1700000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+124,Kost BCI 1 Tipe B,Depok,Tapos,1350000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,ya,ya,tidak,ya,ya
+125,Kost Azizah Jatijajar VIP,Depok,Tapos,1300000,Putri,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+126,Kost BCI Tipe B,Depok,Tapos,650000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,ya,ya
+127,Kost Growing House Jatijajar Tipe Superior,Depok,Tapos,1400000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+128,Kost Sweet Jatijajar Tipe Bb,Depok,Tapos,1200000,Campur,ya,tidak,tidak,ya,ya,tidak,tidak,ya,ya,tidak,ya,ya,ya
+129,Kost Ibu Rany,Depok,Tapos,650000,Campur,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya
+130,Kost BCI 2,Depok,Tapos,750000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya
+131,Kost Muthmainah II,Depok,Tapos,700000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+132,Kost Bersih Ibu Ning Executive,Depok,Tapos,2300000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+133,Kost Jangkrik Tapos,Depok,Tapos,600000,Putri,ya,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+134,Kost Syifa Tipe B,Depok,Tapos,950000,Campur,ya,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,ya,ya
+135,Kost Khodijah Tipe A,Depok,Tapos,650000,Putri,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,ya,tidak,tidak,ya
+136,Kost Bu Indah,Depok,Tapos,900000,Putri,ya,tidak,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+137,Kost Bersih Ibu Ning Standart,Depok,Tapos,1600000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+138,Kost Lili Tipe A,Depok,Tapos,900000,Campur,tidak,tidak,tidak,ya,tidak,tidak,ya,ya,ya,ya,tidak,tidak,ya
+139,Kost Syifa Tipe A,Depok,Tapos,700000,Putri,ya,tidak,ya,ya,tidak,tidak,ya,ya,tidak,ya,ya,ya,ya
+140,Kost Asri Jatijajar,Depok,Tapos,1000000,Putri,tidak,tidak,ya,ya,ya,ya,ya,ya,ya,ya,tidak,tidak,ya
+141,Kost Nukk Residence Tipe Executive,Depok,Tapos,1450000,Campur,ya,ya,tidak,tidak,tidak,tidak,ya,ya,ya,tidak,ya,ya,ya
+142,Rumah Kontrakan Griya Grandalsa Asri,Depok,Tapos,1550000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,ya,ya,tidak,ya
+143,Kost Homy Home Tipe Non Ac,Depok,Tapos,750000,Putri,ya,tidak,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,ya,ya
+144,Kost Barokah Tipe 1 Tapos,Depok,Tapos,1000000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,ya,tidak,ya
+145,Kost CP Tipe B,Depok,Tapos,1600000,Campur,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya,ya,ya,ya
+146,Kost Cream Executive,Depok,Tapos,1300000,Campur,ya,ya,tidak,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya
+147,Rumah Kontrakan Biru,Depok,Tapos,1985000,Campur,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya,ya,ya,tidak,ya,ya
+148,Rumah Kontrakan The Addres Cibubur,Depok,Tapos,3000000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,ya,tidak,tidak,ya
+149,Kost Susilo,Depok,Tapos,1000000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya
+150,Kost Abun Tipe C,Depok,Tapos,1300000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+151,Kost Stadela Tipe A,Depok,Pancoran Mas,900000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,ya,ya
+152,Kost Wilis,Depok,Pancoran Mas,700000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,tidak,ya,tidak,ya
+153,Kost Merapi,Depok,Pancoran Mas,700000,Campur,ya,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,tidak,ya,ya,ya
+154,Kost Epsilon Stadela Tipe A,Depok,Pancoran Mas,600000,Putra,tidak,tidak,tidak,tidak,ya,tidak,tidak,ya,tidak,tidak,tidak,ya,ya
+155,Kost Stadela Mirabela,Depok,Pancoran Mas,750000,Campur,ya,tidak,tidak,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya
+156,Kost Beta Stadela,Depok,Pancoran Mas,700000,Campur,ya,tidak,tidak,tidak,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya
+157,Kost Ibu Melly 1 Tipe A,Depok,Pancoran Mas,800000,Campur,tidak,tidak,tidak,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+158,Kost Lawu Tipe B,Depok,Pancoran Mas,800000,Campur,ya,tidak,tidak,ya,tidak,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+159,Kost Fanta Stadela,Depok,Pancoran Mas,800000,Campur,ya,tidak,tidak,ya,tidak,tidak,ya,ya,tidak,tidak,ya,ya,ya
+160,Kost Lawu Tipe A,Depok,Pancoran Mas,850000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+161,Kost Lily Residence,Depok,Pancoran Mas,1600000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,tidak,ya
+162,Kost Ibu Rini,Depok,Pancoran Mas,750000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+163,Kost Griya Asri,Depok,Pancoran Mas,850000,Campur,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,tidak,ya,ya
+164,Kost 2 Pintu,Depok,Pancoran Mas,800000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,tidak,tidak,ya,ya
+165,Kost Seriza Kamar Sekat,Depok,Pancoran Mas,1000000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+166,Kost Ibu Sussie Tipe Biasa,Depok,Pancoran Mas,900000,Campur,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya
+167,Kost Sakinah,Depok,Pancoran Mas,950000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,tidak,tidak,ya,ya
+168,Kost Wisma Amanah Tipe A,Depok,Pancoran Mas,850000,Campur,ya,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+169,Kost Bu Iyet Tipe B,Depok,Pancoran Mas,800000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,tidak,tidak,tidak,ya,ya
+170,Kost Dewi Sartika Standard,Depok,Pancoran Mas,900000,Campur,ya,tidak,tidak,ya,ya,ya,ya,tidak,ya,ya,tidak,ya,ya
+171,Kost Dewi Sartika Paviliun,Depok,Pancoran Mas,1250000,Campur,ya,tidak,tidak,ya,ya,tidak,ya,ya,ya,ya,tidak,ya,ya
+172,Kost Mandafi Pancoran,Depok,Pancoran Mas,900000,Campur,tidak,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,tidak,tidak,ya
+173,Kost Uib2a,Depok,Pancoran Mas,925000,Putra,ya,tidak,tidak,ya,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,ya
+174,Kost Astrid Tipe Executive,Depok,Pancoran Mas,1200000,Putra,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+175,Kost Astrid Tipe A,Depok,Pancoran Mas,650000,Putra,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+176,Kost Engkong Tipe A,Depok,Pancoran Mas,1300000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+177,Kost Almiida Tipe A,Depok,Pancoran Mas,1050000,Campur,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+178,Kost Villa Cemara Depok VVIP,Depok,Pancoran Mas,1000000,Putri,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya,tidak,tidak,ya
+179,Kost Delima Tipe A,Depok,Pancoran Mas,1400000,Campur,tidak,ya,tidak,ya,tidak,tidak,ya,ya,tidak,tidak,tidak,ya,ya
+180,Kost Madame Huis Standard Room 5,Depok,Pancoran Mas,1250000,Putri,tidak,tidak,ya,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+181,Kost Madame Huis Standard Room,Depok,Pancoran Mas,1750000,Putri,tidak,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+182,Kost Madame Huis Deluxe,Depok,Pancoran Mas,2250000,Putri,tidak,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+183,Kost Madame Huis Queen Room,Depok,Pancoran Mas,2500000,Putri,tidak,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+184,Kost Auliya Tipe A,Depok,Pancoran Mas,1100000,Putri,ya,ya,tidak,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya
+185,Kost Hj Ema 1,Depok,Pancoran Mas,600000,Putri,tidak,tidak,ya,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,ya
+186,Kost Wira,Depok,Pancoran Mas,500000,Putri,tidak,tidak,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,tidak,ya
+187,Kost Pondok Fanay Standard,Depok,Pancoran Mas,1625000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+188,Kost Paramas,Depok,Pancoran Mas,1400000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,tidak,ya
+189,Kost Mangga Tipe A,Depok,Pancoran Mas,700000,Putri,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,ya,ya,ya,ya
+190,Kost Zurai,Depok,Pancoran Mas,1500000,Putri,tidak,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+191,Kost Margonda Itc,Depok,Pancoran Mas,500000,Putra,tidak,tidak,ya,ya,ya,tidak,ya,ya,ya,tidak,tidak,tidak,ya
+192,Kost 155 Tipe A,Depok,Pancoran Mas,800000,Putra,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya
+193,Kost 155 Tipe B,Depok,Pancoran Mas,1250000,Putra,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya
+194,Kost Ami Tipe Lantai Atas,Depok,Pancoran Mas,1300000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+195,Kost Eirene Tipe A2,Depok,Pancoran Mas,2500000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+196,Kost Eirene Tipe A,Depok,Pancoran Mas,2000000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+197,Kost Eirene Tipe Eksklusif,Depok,Pancoran Mas,3800000,Putri,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+198,Kost Taman Siliwangi Tipe Standard,Depok,Pancoran Mas,850000,Putri,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+199,Kost Kanaya Executiv,Depok,Pancoran Mas,2250000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+200,Kost Residence Siliwangi,Depok,Pancoran Mas,1250000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,tidak,ya,tidak,ya
+201,Kost Bang Day Residence Standart Sukmajaya,Depok,Sukmajaya,2000000,Campur,ya,ya,tidak,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak
+202,Kost Bu Sasa Tipe A,Depok,Sukmajaya,1100000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,tidak
+203,Kost Nungky Tipe A,Depok,Sukmajaya,1500000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,ya
+204,Kost Nungky Tipe B,Depok,Sukmajaya,1700000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,ya
+205,Kost Salima,Depok,Sukmajaya,1250000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya
+206,Kost Nad Tipe Standar,Depok,Sukmajaya,900000,Campur,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,ya,ya,ya
+207,Kost The Cozy House,Depok,Sukmajaya,1000000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,ya,ya
+208,Kost The Cozy Sukmajaya,Depok,Sukmajaya,1250000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,ya,ya
+209,Kost Karisma,Depok,Sukmajaya,1300000,Campur,tidak,ya,tidak,tidak,tidak,tidak,ya,ya,ya,ya,tidak,tidak,ya
+210,Kost The Cozy Tipe Large,Depok,Sukmajaya,1250000,Putri,tidak,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+211,Kost Sargita Tipe A,Depok,Sukmajaya,1000000,Putri,tidak,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+212,Kost Asrama,Depok,Sukmajaya,650000,Putra,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,tidak,ya
+213,Rumah Kontrakkan Jelutung 3,Depok,Sukmajaya,1250000,Putra,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,ya,tidak,tidak,tidak,ya
+214,Kost Raihan Residence Tipe A,Depok,Sukmajaya,1350000,Putri,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,tidak,ya,ya
+215,Kost Bunda,Depok,Sukmajaya,1100000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+216,Kost Kiranaa House,Depok,Sukmajaya,1500000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,tidak,ya,ya
+217,Kost Apik Melati II Tipe A,Depok,Sukmajaya,1400000,Campur,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak,ya
+218,Kost Apik Melati II Tipe B,Depok,Sukmajaya,1100000,Campur,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,tidak,tidak,ya
+219,Kost Ibu Rudy,Depok,Sukmajaya,700000,Putri,ya,ya,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya
+220,Kost Melati I Kampung Sugutamu Tipe B,Depok,Sukmajaya,950000,Putri,ya,tidak,ya,ya,ya,ya,ya,ya,tidak,tidak,ya,tidak,ya
+221,Kost Arsy,Depok,Sukmajaya,1000000,Putri,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya,ya,tidak,ya
+222,Kost Oren Tipe A,Depok,Sukmajaya,650000,Putri,ya,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,tidak,ya,ya
+223,Kost Achmadi,Depok,Sukmajaya,750000,Putri,tidak,tidak,ya,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,ya
+224,Kost Asri Juanda,Depok,Sukmajaya,1000000,Campur,tidak,tidak,ya,tidak,ya,tidak,ya,ya,ya,ya,tidak,tidak,ya
+225,Kost Rumah Hijau,Depok,Sukmajaya,900000,Campur,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,ya,tidak,ya
+226,Kost Griya Inaya,Depok,Sukmajaya,1600000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,ya,ya,ya
+227,Kost Griya Diani Tipe Executive,Depok,Sukmajaya,1600000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,ya
+228,Kost Ria Dhiani Tipe A,Depok,Sukmajaya,1400000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,tidak,ya
+229,Rumah Kontrakan Kayumanis,Depok,Sukmajaya,2000000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,ya
+230,Kost Murah,Depok,Sukmajaya,2600000,Putri,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,ya,ya,tidak,tidak,ya
+231,Kost Ria Dhiani Tipe B,Depok,Sukmajaya,1600000,Putri,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,ya,tidak,ya,ya
+232,Kost Petakan Depok Timur,Depok,Sukmajaya,987000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,tidak,ya,tidak,tidak,ya
+233,Kost Apik Arel Tipe A,Depok,Sukmajaya,1105000,Campur,ya,ya,tidak,ya,ya,ya,tidak,ya,tidak,ya,ya,ya,ya
+234,Kost Apik Arel Tipe B,Depok,Sukmajaya,790000,Campur,ya,tidak,tidak,ya,ya,tidak,tidak,ya,tidak,ya,ya,ya,ya
+235,Rumah Kontrakan Siak 42,Depok,Sukmajaya,2100000,Campur,tidak,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak,ya
+236,Kost Depok Timur,Depok,Sukmajaya,1500000,Putri,tidak,tidak,tidak,tidak,tidak,tidak,ya,ya,tidak,ya,tidak,tidak,ya
+237,Kost Cimanuk Tipe Executive,Depok,Sukmajaya,1650000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,tidak,tidak,ya,ya
+238,Kost Eksklusif Mara Juara Tipe Cabin Room A,Depok,Sukmajaya,1900000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+239,Kost Eksklusif Mara Juara Tipe Mara Juara,Depok,Sukmajaya,2149999,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+240,Kost Eksklusif Mara Juara Tipe Large Bedroom,Depok,Sukmajaya,2200000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,ya,ya,ya,ya,ya
+241,Kost Khayangan Juanda,Depok,Sukmajaya,2300000,Putri,tidak,ya,tidak,ya,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya
+242,Kost 77 Pemuda,Depok,Sukmajaya,1215000,Putri,tidak,ya,tidak,ya,ya,tidak,tidak,ya,tidak,tidak,ya,tidak,ya
+243,Kost Juanda Tipe A,Depok,Sukmajaya,800000,Putri,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,ya
+244,Kost Cimanuk Tipe Deluxe,Depok,Sukmajaya,1600000,Campur,ya,ya,tidak,ya,ya,ya,ya,ya,tidak,tidak,ya,tidak,ya
+245,Kost Cimanuk Tipe Standart,Depok,Sukmajaya,1200000,Campur,tidak,ya,tidak,ya,ya,tidak,ya,ya,tidak,tidak,ya,ya,ya
+246,Kost Anggrek House,Depok,Sukmajaya,1500000,Campur,tidak,ya,tidak,tidak,tidak,tidak,tidak,ya,ya,ya,ya,tidak,ya
+247,Kost Tridi Non Ac,Depok,Sukmajaya,1200000,Putra,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,ya,ya,ya,ya
+248,Kost Tridi Tipe Ac,Depok,Sukmajaya,1550000,Putra,ya,ya,tidak,ya,tidak,tidak,tidak,ya,tidak,ya,ya,ya,ya
+249,Kost Kerinci,Depok,Sukmajaya,500000,Putri,ya,tidak,ya,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,ya
+250,Kost Kerinci Tipe A,Depok,Sukmajaya,650000,Putri,ya,tidak,ya,ya,ya,tidak,ya,ya,tidak,tidak,tidak,tidak,ya

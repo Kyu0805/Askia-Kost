@@ -1,0 +1,16 @@
+[ListParagraph] Pada gambar dibawah pendaftaran belum berhasil katanya {firebase_auth/invalid Credential] The supplied auth credential is incorrect, malformed or has expired.
+[ListParagraph] [IMAGE] 
+[ListParagraph] Saat aku ingin menggunakan filtering sistem rekomendasinya muncul error : Tldak bisa terhubung ke server rekomendası. Pastıkanbackend berjalan di http://10.0.2.2:8000.
+[ListParagraph] [IMAGE] 
+[ListParagraph] *ini pertanyaan. Anggaplah aku sudah punya csv berisi dataset kos kosan asli sebanyak 250, untuk ngebuat ui nya secara automatis gampangan yang mana? Gambar 1 :
+[ListParagraph] [IMAGE] 
+[ListParagraph] Kalau gambar yang atas ini kan ada detail detailnya tuh kaya deskripsi kosan, info properti, kamar dan fasilitas, sama pemesanan (tapi kalau pemesanan sebenernya gak usah sih karna aku udah mencantumkan di batasan masalah).
+[ListParagraph] Atau seperti gambar yang dibawah? Gambar 2 :
+[ListParagraph] [IMAGE] 
+[ListParagraph] Kalau yang ini keliatan detailnya sih kaya ada kecocokan, lalu kenapa di rekomendasikan, ada nama kos kosan serta wilayahnya… enak yang ini sih lebih simple cuman bisa dibuat automatis atau ngga pertanyaan aku tuh? Enaknya di gambar pertama sih tapi kalau kebanyakan ui keberatan gak aplikasinya?
+[ListParagraph] Kayaknya fitur peta,pesanan,sama chat di hapus aja (kalau misalnya di nomor 3 bisa pakai ui gambar pertama fitur chat pada ui tersebut di hapus aja sama fitur pesan kamar yang ada harganya semuanya di hapus)
+[ListParagraph] [IMAGE] 
+[ListParagraph] Kalau misalnya ada fitur cari rekomendasi (tombol yang paling atas) berarti gak perlu “cari kos atau area” (yang aku lingkari) kan? Berarti tulisan askia kos (ubah ya jadi kos bukan kost) sama deskripsi dibawahnya “Pillh kos berdasarkan area, budget, dan fasilitas yang paling cocok untuk kamu.” Di pindahkan keatas ya
+[ListParagraph] [IMAGE] 
+[ListParagraph] Fitur liat kos dari peta juga di hapus ya karna kan peta udah gak ada. *Ini pertanyaan. Terus kalau misalnya di nomor 3 pakai gambar ke 2 berarti fitur ui kos kosan yang mengarah ke detail kos kosannya juga di hapus dong? Jadi sepi ya nanti ui nya kalau gitu enaknya gimana? wkwkwk
+[ListParagraph] [IMAGE] 

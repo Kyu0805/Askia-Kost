@@ -1,0 +1,61 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    match /users/{userId} {
+      allow read, write: if signedIn() && request.auth.uid == userId;
+
+      match /sellerMenus/{menuId} {
+        allow read, write: if signedIn() && request.auth.uid == userId;
+      }
+    }
+
+    match /vendors/{vendorId} {
+      allow read: if true;
+      allow write: if signedIn();
+
+      match /menus/{menuId} {
+        allow read: if true;
+        allow write: if signedIn();
+      }
+    }
+
+    match /kos/{kosId} {
+      allow read: if true;
+      allow write: if signedIn();
+    }
+
+    match /recommendations/{userId} {
+      allow read: if userId == 'demo-mahasiswa-depok'
+                  || (signedIn() && request.auth.uid == userId);
+      allow write: if false;
+    }
+
+    match /bookings/{bookingId} {
+      allow read, write: if signedIn();
+    }
+
+    match /vendorChats/{vendorId} {
+      allow read, write: if signedIn();
+
+      match /messages/{messageId} {
+        allow read, write: if signedIn();
+      }
+    }
+
+    match /orders/{orderId} {
+      allow read, write: if signedIn();
+
+      match /payments/{paymentId} {
+        allow read, write: if signedIn();
+      }
+    }
+
+    match /customMenuRequests/{requestId} {
+      allow read, write: if signedIn();
+    }
+  }
+}

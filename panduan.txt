@@ -1,0 +1,759 @@
+                                                                                                                     2
+
+DAFTAR ISI
+
+1. PENDAHULUAN _____________________________________________ 4
+  1.1. Pengertian................................................................................................. 4
+  1.2. Tujuan ....................................................................................................... 4
+  1.3. Bentuk Skripsi .......................................................................................... 4
+
+2. ETIKA PENULISAN ILMIAH______________________________________ 5
+  2.1. Sifat Etika Penulisan ................................................................................ 6
+  2.2. Bentuk Pelanggaran Ilmiah ..................................................................... 8
+
+3. FORMAT SKRIPSI _____________________________________________ 9
+  3.1. Bagian Awal ............................................................................................. 9
+     3.1.1. Halaman Judul ................................................................................. 10
+     3.1.2. Lembar Originalitas dan Publikasi ................................................. 11
+     3.1.3. Lembar Pengesahan ........................................................................ 11
+     3.1.4. Abstrak.............................................................................................. 12
+     3.1.5. Abstract ............................................................................................ 13
+     3.1.6. Kata Pengantar................................................................................. 13
+     3.1.7. Daftar Isi............................................................................................ 14
+     3.1.8. Daftar Tabel / Daftar Gambar / Daftar Lampiran ............................ 14
+  3.2. Bagian Isi ................................................................................................ 15
+     3.2.1. Pendahuluan (Bab 1) ....................................................................... 15
+     3.2.2. Tinjauan Pustaka (Bab 2) ................................................................ 16
+     3.2.3. Metode Penelitian (Bab 3) ............................................................... 16
+     3.2.4. Hasil dan Pembahasan (Bab 4) ....................................................... 17
+     3.2.5. Penutup (Bab 5) ............................................................................... 17
+  3.3. Bagian Akhir ........................................................................................... 17
+     3.3.1 Daftar Pustaka................................................................................... 17
+     3.3.2 Lampiran............................................................................................ 18
+
+4. TEKNIS PENULISAN __________________________________________ 18
+  4.1. Kertas ...................................................................................................... 18
+  4.2. Format Pengetikan ................................................................................. 18
+                                                                                                                     3
+
+  4.3 Penomoran Bab dan Subbab ................................................................. 19
+  4.4. Penomoran Halaman............................................................................. 19
+  4.5 Judul dan Nomor Gambar / Grafik / Tabel............................................. 20
+  4.6 Penulisan Daftar Pustaka ...................................................................... 20
+  4.7 Pengutipan atau Sitasi ........................................................................... 21
+5. PROSEDUR _________________________________________________ 21
+6. LAMPIRAN __________________________________________________ 22
+  6.1 Contoh Halaman Judul ....................................................................... 22
+  6.2 Contoh Lembar Originalitas dan Publikasi ....................................... 23
+  6.3 Contoh Lembar Pengesahan .............................................................. 24
+  6.4 Contoh Abstrak ................................................................................... 25
+  6.5 Contoh Kata Pengantar....................................................................... 27
+  6.6 Contoh Daftar Isi ................................................................................. 28
+  6.7 Contoh Daftar Tabel / Daftar Gambar / Daftar Lampiran .................. 30
+  6.8 Contoh Daftar Pustaka ........................................................................ 33
+  6.9 Contoh Penulisan Kutipan.................................................................. 34
+                                                                                                                     4
+
+1. PENDAHULUAN
+
+1.1. Pengertian
+
+Mahasiswa program studi Sistem Informasi dalam proses penyelesaian studi wajib
+menyusun sebuah karya tulis ilmiah. Ada dua karya ilmiah yakni karya ilmiah
+berupa Penulisan Ilmiah atau sering disingkat PI dan Skripsi.
+Penulisan Ilmiah wajib dibuat oleh setiap mahasiswa program studi Sistem
+Informasi sebagai salah satu syarat untuk mencapai gelar setara dengan sarjana
+muda pada semester 6. Skripsi wajib dibuat oleh mahasiswa program studi Sistem
+Informasi yang mengambil jalur Tugas Akhir berupa Skripsi pada semester 8.
+
+1.2. Tujuan
+
+Dengan membuat Skripsi mahasiswa diharapkan mampu mengaplikasikan
+pengetahuan dan ketrampilannya dalam memecahkan suatu masalah dalam
+bidang keahlian tertentu secara sistematis, logis, kritis dan kreatif serta
+menuangkannya dalam bentuk laporan ilmiah.
+Adapun tujuan penulisan Skripsi adalah agar mahasiswa mampu :
+
+     Berfikir dan bertindak secara ilmiah.
+     Mengidentifikasi, merumuskan dan memecahkan masalah dengan cara
+
+         menerapkan konsep teori, metode, teknik atau dalam bentuk sebuah
+         rancangan sebagai salah satu upaya pemecahan masalah.
+     Menyelesaikan penelitian/rancangan secara sistematis yang diawali dari
+         penyusunan rencana, pelaksanaan, sampai dengan pelaporan.
+     Mempresentasikan dan mempertanggungjawabkan hasil penelitian/
+         rancangan dalam sidang sarjana.
+
+1.3. Bentuk Skripsi
+
+Ada dua bentuk skripsi yakni (1) berupa hasil penelitian dan (2) suatu
+rancangan. Skripsi berupa hasil penelitian harus mengandung unsur kejelasan
+obyek yang akan diteliti, masalah yang akan diselesaikan, hipotesa yang akan diuji
+                                                                                                                     5
+
+kebenarannya, metode yang akan digunakan, hasil, dan pengembangan
+penelitian lanjutan. Skripsi yang berupa rancangan harus mengandung unsur
+kejelasan obyek yang akan di rancang, masalah yang akan disolusi dengan
+rancangan yang dibuat atau gagasan rancangan yang akan dicapai, metode
+perancangan yang digunakan untuk memecahkan masalah atau mewujudkan
+gagasan rancangan, hasil, kelebihan dan kekurangan dari rancangan yang dibuat.
+Beberapa tema skripsi berupa hasil penelitian dan rancangan:
+1. Sistem Informasi Bisnis (Fokus pada pengembangan sistem untuk mendukung
+
+   bisnis dan manajemen)
+2. Teknologi Informasi, Jaringan dan Keamanan Sistem Informasi (Fokus pada
+
+   infrastruktur TI dan jaringan serta pada perlindungan data dan mitigasi risiko).
+3. Basis Data dan Data Analytics (Fokus pada pengelolaan dan analisis data).
+4. Pengembangan Perangkat Lunak (Fokus pada desain dan pengembangan
+
+   aplikasi).
+5. Business Intelligence dan Decision Support Systems (Fokus pada pengambilan
+
+   keputusan strategis).
+6. Sistem Informasi Berbasis Web dan Mobile (Fokus pada platform digital yang
+
+   dapat diakses via web/mobile)
+7. Inovasi dan Transformasi Digital (Fokus pada pemanfaatan teknologi untuk
+
+   inovasi dan transformasi).
+8. Eksplorasi tools, software, bahasa pemrograman atau aplikasi (termasuk
+
+   Artificial Intelligince) dengan contoh penggunaannya (Fokus pada pemahaman
+   fungsionalitas, Identifikasi kelebihan dan kekurangan, Analisis Performa,
+   Dokumentasi teknis, Rekomendasi pengguna, Temuan masalah, Peluang
+   pengembangan, Benchmarking, Laporan Kompatibilitas).
+
+2. ETIKA PENULISAN ILMIAH
+
+         Etika penulisan ilmiah merupakan istilah yang tersusun dari dua istilah.
+Dimulai dari "etika", kemudian disusul dengan istilah "penulisan ilmiah". Etika
+secara umum adalah norma atau aturan perilaku yang membahas secara kritis,
+rasional, dan sistematis. Sedangkan penulisan ilmiah mengacu pada proses
+                                                                                                                     6
+
+menulis Karya Tulis Ilmiah (KTI). Misalnya artikel ilmiah, skripsi, tesis, makalah,
+disertasi, dan lain sebagainya. Pada prosesnya ada etika yang wajib dipahami dan
+dipatuhi para penulis KTI tersebut.
+Adapun pengertian etika penulisan ilmiah adalah norma atau standar aturan
+perilaku yang harus dilakukan (dan yang tidak boleh dilakukan) oleh penulis
+tentang baik (dan buruknya) cara penulisan ilmiah.
+Saat menulis KTI, seseorang memiliki kebebasan untuk menulis apa yang
+ditemukannya dalam penelitian. Akan tetapi tetap harus mengikuti aturan yang
+berlaku dengan tujuan hasil tulisan bisa dipertanggung jawabkan kebenaran dan
+dampaknya.
+Jika etika penulisan KTI ini dipatuhi dan benar-benar diterapkan maka KTI tersebut
+akan memiliki kualitas mumpuni. Sekaligus isinya murni informasi (ilmu
+pengetahuan) yang sifatnya netral. Tidak digunakan untuk kepentingan pihak
+tertentu.
+
+2.1. Sifat Etika Penulisan
+
+Membahas mengenai etika penulisan ilmiah maka akan membahas juga
+mengenai sifat-sifat umum dalam etika tersebut. Sifat di dalam etika penulisan KTI
+terdapat lima poin, yaitu:
+1. Kejujuran
+
+    Sifat etika penulisan KTI yang pertama adalah kejujuran atau honesty. Dalam
+    sifat ini, penulis diharapkan bersikap jujur dalam menuliskan isi KTI yang
+    dibuat. Yakni disesuaikan dengan data di lapangan atau data yang didapatkan.
+    Data yang disajikan apa adanya sudah memenuhi etika kejujuran yang tentu
+    wajib dilakukan setiap penulis karya ilmiah. Tanpa sifat etika penulisan ini maka
+    isi KTI akan dinilai tidak valid dan tidak lagi dipercaya. Sebab isinya rekayasa
+    saja bukan fakta.
+2. Bebas Plagiarisme
+    Etika penulisan KTI yang kedua adalah bebas dari plagiarisme. Plagiarisme
+    sendiri adalah penggunaan suatu gagasan, hasil, pernyataan, ataupun kalimat
+    orang lain yang diakui sebagai karya tulisnya tanpa menyebutkan sumbernya.
+                                                                                                                     7
+
+    Artinya, isi KTI diharapkan dan diwajibkan murni karya sendiri. Jika memang
+    melakukan pengambilan suatu kalimat, misalnya definisi maka wajib
+    mencantumkan sumber sesuai ketentuan.
+    Bentuk dari plagiarisme sendiri sangat beragam, baik sengaja maupun tidak
+    sengaja akan diberi sanksi hukum. Oleh sebab itu, pahami betul apa saja
+    bentuknya dan bagaimana menghindarinya.
+3. Menjunjung Hak Cipta
+    Selanjutnya dalam sifat etika penulisan ilmiah adalah menjunjung Hak Cipta.
+    Sesuai di dalam Undang-Undang Republik Indonesia Nomor 19 Tahun 2002
+    tentang Hak Cipta (2002).
+    Hak Cipta adalah hak eksklusif bagi pencipta atau penerima hak untuk
+    mengumumkan atau memperbanyak ciptaannya atau memberikan ijin untuk itu
+    dengan tidak mengurangi pembatasan-pembatasan menurut peraturan
+    perundang-undangan yang berlaku.
+    Penulis KTI wajib menghindari pelanggaran Hak Cipta tersebut, dan hal ini
+    berhubungan dengan poin bebas plagiarisme yang dijelaskan sebelumnya,
+    sehingga pastikan selalu melakukan kredit dan menulis dengan buah pikiran
+    sendiri.
+4. Keabsahan
+    Sifat berikutnya yang wajib dimiliki penulis KTI adalah keabsahan atau validity.
+    Artinya adalah, dalam menulis wajib menjelaskan ide atau gagasan pokok
+    dengan baik. Gagasan ini adalah hasil buah pikiran sendiri dan dijabarkan
+    dengan jelas, sehingga mencegah plagiarisme sekaligus mencegah pembaca
+    salah tafsir. Oleh sebab itu, menyampaikan gagasan dengan kalimat efektif
+    sangat dianjurkan agar sifat ini terpenuhi.
+5. Keterandalan
+    Terakhir adalah sifat keterandalan (reliability: accuracy and consistency).
+    Artinya, KTI yang disusun harus menjelaskan suatu data atau informasi dengan
+    baik dan benar sesuai data di lapangan. Saat data sifatnya valid maka
+    informasi yang disajikan dijamin handal dan bisa dipercaya.
+                                                                                                                     8
+
+Pada proses menyusun KTI memang setiap dosen dan peneliti maupun
+mahasiswa disebut punya kebebasan menuliskan apa yang ditemukannya. Hanya
+saja, proses penulisannya ternyata tidak bisa sembarangan.
+Sebab bisa saja terjadi tindakan yang merugikan penulis atau peneliti lain.
+Misalnya, mengambil tulisan ilmiah orang lain baik dalam skala kecil maupun
+besar. Hal ini disebut tindakan plagiarisme.
+Jika dilakukan, maka tulisan yang disusun bukan karya sendiri melainkan karya
+orang lain. Tindakan ini tentu saja sudah masuk kategori menipu publik dan
+merugikan penulis yang karyanya dicomot tanpa ijin.
+Adanya etika penulisan ilmiah adalah untuk mencegah atau mengantisipasi
+kemungkinan tersebut. Etika ini pada dasarnya melindungi setiap peneliti dan
+penulis KTI dari tindak kejahatan pihak tak bertanggung jawab yang
+memanfaatkan karyanya.
+Etika penulisan ini sekaligus menjadi dasar bagi para penulis ilmiah untuk paham
+tata cara menulis yang baik dan benar. Kualitas karyanya terjamin dan isinya bisa
+dipertanggungjawabkan dengan baik.
+
+2.2. Bentuk Pelanggaran Ilmiah
+
+Pelanggaran terhadap etika penulisan ilmiah ternyata pernah ada, dan beberapa
+masuk ke ranah hukum. Sebab pelanggaran ini bisa jadi masuk ke pelanggaran
+hak cipta yang bisa menjerat pelakunya ke meja hijau.
+Adapun bentuk pelanggaran terhadap etika penulisan KTI ini sendiri antara lain:
+1. Fabrikasi
+
+    Fabrikasi adalah menyampaikan hal yang tidak ada ke dalam tulisan, atau
+    melakukan rekayasa. Misalnya hasil penelitian A akan tetapi yang dicantumkan
+    di KTI adalah B.
+2. Falsifikasi
+    Falsifikasi adalah tindakan memalsukan data atau informasi dalam kegiatan
+    penelitian. Misalnya, peneliti kesulitan menemukan referensi maka digunakan
+    referensi A yang sebenarnya isinya tidak sesuai.
+3. Plagiat
+                                                                                                                     9
+    Plagiat atau plagiarisme adalah tindakan menjiplak atau mengambil karya
+    orang lain yang diakui karya sendiri. Misalnya copy paste KTI milik penulis A
+    untuk efisiensi waktu tanpa mencantumkan sumber.
+4. Kepengarangan Tidak Sah
+    Kepengarangan tidak sah adalah tindakan mencantumkan maupun
+    menghapus nama penulis dalam KTI yang ditulis bersama-sama. Misalnya KTI
+    A ditulis 3 orang, akan tetapi salah satunya tidak dicantumkan padahal punya
+    kontribusi.
+5. Konflik Kepentingan
+    Konflik kepentingan adalah penulisan KTI dengan tujuan mengikuti
+    kepentingan pihak tertentu. Misalnya penelitian dosen didanai perusahaan X,
+    perusahaan ingin namanya disebut dalam KTI secara positif. Dosen kemudian
+    menyajikan data penelitian rekayasa.
+6. Pengajuan Jamak
+    Pengajuan jamak adalah mempublikasikan satu naskah ke beberapa pihak
+    publikasi baik jurnal maupun penerbit. Misalnya, karya judul X dikirimkan ke
+    jurnal A dan jurnal B padahal isinya sama sehingga pengajuan ke lebih dari
+    satu tempat. Jika terbit bersamaan maka masuk self-plagiarism.
+
+Penjelasan mengenai etika penulisan ilmiah di atas tentu menjadi hal tepat untuk
+dipelajari, dipahami, dan kemudian dipatuhi. Supaya dalam proses menyusun KTI
+tidak tersandung kasus hukum karena melanggar salah satu atau semua bentuk
+pelanggaran etika yang dijelaskan.
+
+3. FORMAT SKRIPSI
+
+Susunan Struktur Sripsi dibagi dalam tiga bagian yaitu : (a) awal; (b) isi; dan (c)
+akhir.
+
+3.1. Bagian Awal
+
+       Bagian awal Tugas Akhir terdiri dari:
+                                                                                                                   10
+
+       a. Halaman Judul
+       b. Lembar Originalitas dan Publikasi
+       c. Lembar Pengesahan
+       d. Abstrak
+       e. Abstract
+       f. Kata Pengantar
+       g. Daftar Isi
+       h. Daftar Tabel / Daftar Gambar / Daftar Lampiran
+
+3.1.1. Halaman Judul
+
+Halaman judul adalah halaman terdepan dari skripsi, sehingga halaman ini harus
+memberikan informasi singkat, jelas dan tidak bermakna ganda (ambigu) kepada
+pembaca. Halaman judul terdiri dari Nama Universitas, Nama Fakultas, Logo
+Universitas, jenis karya ilmiah (Skripsi), Judul, Nama Penulis, NPM, Nama
+Program Studi, Nama Pembimbing, Tujuan dan dalam rangka apa karya ilmiah itu
+dibuat, Kota, Tahun Pembuatan Skripsi.
+
+Ketentuan penulisan Judul adalah sebagai berikut :
+a. Dituliskan secara ringkas dan dalam kalimat yang jelas serta tidak melebihi 20
+
+   kata.
+b. Disajikan dalam kalimat deklaratif dan bukan kalimat tanya.
+c. Judul dibuat dalam kalimat tegas, bermakna tunggal, tidak mengulang kata
+
+   (repetitif), bukan singkatan, menggambarkan permasalahan, metode, objek dan
+   jika terdapat kata asing dicetak miring (italic).
+
+Ketentuan penulisan Halaman Judul adalah sebagai berikut :
+1. Diketik simetris di tengah (center).
+2. Jenis huruf adalah Times New Roman dan semua huruf ditulis dengan spasi
+
+   tunggal (line spacing = single)
+3. Logo Gunadarma dengan diameter 6 cm
+                                                                                                                   11
+
+4. Nama Universitas, Jenis karya ilmiah dan Judul ditulis dalam Huruf Besar
+   dengan ukuran 14 poin.
+
+5. Nama Fakultas, Nama Penulis, NPM, Nama Program Studi, Nama Pembimbing,
+   Tujuan dan dalam rangka apa karya ilmiah dibuat, Kota, Tahun
+
+6. Pembuatan skripsi ditulis dalam Huruf Besar diawal kata dengan ukuran 12
+   poin.
+
+               Contoh Halaman Judul dapat dilihat pada Lampiran 6.1
+
+3.1.2. Lembar Originalitas dan Publikasi
+
+Halaman ini berisi pernyataan tertulis dari penulis bahwa tugas akhir yang disusun
+adalah hasil karyanya sendiri dan ditulis dengan mengikuti kaidah penulisan ilmiah
+dan dapat dipublikasikan sepenuhnya oleh pihak Universitas.
+Halaman ini terdiri dari: Nama Penulis, NPM, Judul Skripsi, Tanggal Sidang,
+Tanggal Lulus dan Penyataan Skripsi adalah hasil karyanya sendiri dan dapat
+dipublikasikan sepenuhnya oleh Universitas.
+Ketentuan penulisan Halaman Pernyataan Originalitas dan Publikasi adalah Jenis
+font yang digunakan adalah Times New Roman 12 poin, spasi 1.5 dan posisi rata
+kiri dan kanan (Justify).
+
+   Contoh Halaman Pernyataan Originalitas dapat dilihat pada Lampiran 6.2
+
+3.1.3. Lembar Pengesahan
+
+Halaman Pengesahan berfungsi untuk menjamin keabsahan Skripsi atau
+pernyataan tentang penerimaannya. Halaman Pengesahan terdiri dari satu tabel
+Panitia Ujian yang didalamnya berisikan informasi Ketua sidang, sekertaris sidang
+, Nama Pembimbing dan penguji. Tabel terdiri dari tiga kolom yaitu: No Urut, Nama
+dan Kedudukan masing-masing. Halaman Pengesahan ini ditandatangani oleh
+Pembimbing dan Kepala Bagian Sidang, bagi yang terdiri dari dua pembimbing
+maka ditandatangi oleh pembimbing 1, pembimbing 2 dan Kepala Bagian Sidang.
+Penulisan nama pembimbing harus satu baris.
+                                                                                                                   12
+Ketentuan penulisan Halaman Pengesahan adalah Jenis font yang digunakan
+adalah Times New Roman 12 poin, spasi 1.
+Template halaman Lembar Pengesahan mengacu pada informasi yang terdapat
+pada:
+http://baak.gunadarma.ac.id/sidang/front/page_detail/2/DokumenSidang
+
+                Contoh Halaman Pengesahan dapat dilihat Lampiran 6.3
+
+3.1.4. Abstrak
+
+Abstrak merupakan ikhtisar tugas akhir yang memuat permasalahan, tujuan,
+metode penelitian, hasil, dan kesimpulan. Bagian Abstrak untuk memudahkan
+pembaca mengerti secara cepat isi tugas akhir dan membantu memutuskan
+apakah perlu membaca lebih lanjut atau tidak.
+
+Ketentuan penulisan abstrak adalah sebagai berikut:
+ a. Maksimum 250 kata dalam satu paragraf, diketik dengan jenis font Times New
+
+    Roman 12 poin, spasi tunggal (line spacing = single).
+ b. Abstrak disusun dalam dua bahasa, yaitu bahasa Indonesia dan Bahasa
+
+    Inggris.
+ c. Abstrak bahasa Indonesia dan Inggris dalam halaman terpisah.
+ d. Nama Mahasiswa, NPM, Judul Tugas Akhir, Program Studi, kata kunci ditulis
+
+    di atas abstrak. Untuk Abstrak dalam Bahasa Indonesia, Kata Kunci diberikan
+    dalam Bahasa Indonesia. Untuk Abstrak dalam Bahasa Inggris, Kata Kunci
+    diberikan dalam Bahasa Inggris (dicari padanan katanya).
+ e. Di bagian bawah Abstrak dituliskan tahun Daftar Pustaka yang digunakan.
+ f. Semua istilah asing, kecuali nama, dicetak miring.
+
+                       Contoh Abstrak dapat dilihat pada Lampiran 6.4
+                                                                                                                   13
+
+3.1.5. Abstract
+
+Abstract merupakan abstrak yang dituliskan dalam Bahasa Inggris Maksimum 250
+kata. Abstrack berisikan ikhtisar tugas akhir yang memuat permasalahan, tujuan,
+metode penelitian, hasil, dan kesimpulan.
+
+                       Contoh Abstrct dapat dilihat pada Lampiran 6.4
+
+3.1.6. Kata Pengantar
+
+Halaman Kata Pengantar memuat pengantar singkat Skripsi. Halaman Ucapan
+Terima Kasih memuat ucapan terima kasih atau penghargaan kepada berbagai
+pihak yang telah membantu dalam penyusunan tugas akhir. Untuk nama pihak
+yang membantu harus dicantumkan gelar akademik. Sebaiknya, ucapan terima
+kasih atau penghargaan tersebut juga mencantumkan bantuan yang mereka
+berikan, misalnya bantuan dalam memperoleh masukan, data, sumber informasi,
+serta bantuan dalam menyelesaikan tugas akhir.
+
+Ketentuan penulisan Kata Pengantar/UcapanTerima Kasih sebagai berikut:
+   a. Semua huruf ditulis dengan jenis Times New Roman 12 poin, spasi 1,5 (line
+       spacing = 1.5 lines, before dan after =0).
+   b. Judul Kata Pengantar atau Ucapan Terima Kasih ditulis dengan tipe Times
+       New Roman 14 poin, dicetak tebal dan huruf besar.
+   c. Jarak antara judul dan isi Kata Pengantar/Ucapan Terima Kasih adalah 2 x
+       1,5 spasi
+   d. Urutan pihak-pihak yang diberi ucapan terima kasih adalah sebagai berikut:
+       1) Rektor, 2) Dekan, 3) Ketua Program Studi, 4) Kepala Bagian Sidang
+       Skripsi, 5) Dosen Pembimbing, 6) Teman- teman, dan 7) Orang tua dan
+       keluarga.
+
+       Template halaman Kata Pengantar mengacu pada informasi yang terdapat
+       pada:
+       http://baak.gunadarma.ac.id/sidang/front/page_detail/2/DokumenSidang
+                                                                                                                   14
+
+              Contoh Ucapan Terima Kasih dapat dilihat pada Lampiran 6.5
+
+3.1.7. Daftar Isi
+
+Daftar Isi memuat semua bagian tulisan beserta nomor halaman masing-masing,
+Yang ditulis sama dengan isi yang bersangkutan.
+
+ Ketentuan penulisan Daftar Isi adalah sebagai berikut:
+ 1.Semua huruf ditulis dengan tipe Times New Roman 12 poin dengan spasi
+
+    tunggal (line spacing = single).
+ 2. Khusus untuk judul tiap bab ditulis dengan Times New Roman 14 poin, dicetak
+
+    tebal dan huruf besar (kapital).
+ 3. Jarak antara judul dengan isi Daftar Isi adalah 3 spasi.
+ 4. Sub bab pada daftar isi dibuat maksimum 3 level.
+ 5. Daftar isi dibuat secara otomatis dengan menggunakan Table of Contents
+
+    (TOC).
+                      Contoh Daftar Isi dapat dilihat pada Lampiran 6.6
+
+3.1.8. Daftar Tabel / Daftar Gambar / Daftar Lampiran
+
+Lampiran merupakan data atau pelengkap atau hasil olahan yang menunjang
+penulisan tugas akhir, tetapi tidak dicantumkan di dalam isi tugas skripsi, karena
+akan mengganggu kesinambungan pembacaan. Lampiran yang perlu disertakan
+dikelompokkan menurut jenisnya, antara lain jadwal, tabel, daftar pertanyaan,
+gambar, grafik, desain.
+
+Ketentuan penulisan Daftar Gambar Skripsi secara umum adalah sebagai berikut:
+a. Semua huruf ditulis dengan tipe Times New Roman 12 poin dalam spasi tunggal
+
+   (line spacing = single).
+b. Khusus untuk judul Daftar Gambar ditulis dengan tipe Times New Roman 14
+
+   poin, dicetak tebal dan huruf besar (kapital).
+                                                                                                                   15
+
+     Contoh Daftar Tabel / Gambar / Lampiran dapat dilihat pada Lampiran 6.7
+
+3.2. Bagian Isi
+
+Bagian tubuh/pokok memuat uraian/penjabaran/analisis yang dilakukan oleh
+penulis. Penjabaran mencakup tinjauan pustaka, metode penelitian, dan hasil
+serta pembahasannya. Jumlah halaman bagian isi minimal 40 halaman yang
+dimulai dari Bab 1 sampai dengan Daftar Pustaka.
+
+3.2.1. Pendahuluan (Bab 1)
+
+Pendahuluan memuat: latar belakang permasalahan, ruang lingkup atau batasan,
+tujuan dan sistematika penulisan.
+a. Latar belakang permasalahan memuat uraian alasan mengapa penulis sampai
+
+   ke pemilihan topik permasalahan yang bersangkutan dilengkapi dengan data
+   yang relevan, yang menunjang dan menguatkan alasan mengapa perlu
+   diangkat topik tersebut. Apabila penelitian serupa pernah diangkat sebelumnya
+   oleh penulis yang lain (tulis penelitian yang dimaksud), sebutkan perbedaannya
+   dengan yang anda buat. Atau anda dapat menyebutkan beberapa kelemahan
+   dari penelitian terdahulu.
+   Paparkan dari hal yang umum hingga mengerucut ke masalah yang diangkat
+   dalam tulisan ilmiah dalam bentuk rumusan masalah. Rumusan masalah
+   dituliskan pada bagian akhir Latar belakang dengan kalimat yang sederhana,
+   jelas dan dapat dimengerti oleh pembaca.
+b. Ruang lingkup memberikan batasan yang jelas dari rumusan masalah yang
+   dikaji agar mempertajam bahasan penelitian misalnya: variabel penelitian,
+   batasan penggunaan data, metode, tools dll.
+c. Tujuan penelitian menggambarkan target capaian penelitian yang diharapkan ,
+   ditulis dalam kalimat naratif atau berbentuk poin/paragraf dan harus sesuai
+   dengan Rumusan masalah.
+d. Sistematika penulisan memberikan gambaran umum dari bab ke bab isi dari
+   Tulisan Ilmiah. Dipaparkan secara narasi (tidak ditulis dalam poin-poin).
+                                                                                                                   16
+
+3.2.2. Tinjauan Pustaka (Bab 2)
+
+Tinjauan pustaka memuat uraian mengenai landasan teori dan landasan empiris
+yang mendukung pendekatan pemecahan masalah. Tingkat kedalaman dan
+keluasan aspek-aspek yang diteliti, tergantung pada ketajaman analisis
+permasalahan, selain teori, hasil-hasil penelitian lain yang relevan, dapat juga
+disajikan dengan menyebutkan sumber pustakanya.
+Ketentuan atau syarat utama yang harus dipenuhi oleh sumber bacaan, yaitu
+sebagai berikut:
+a. Adanya keterkaitan antara isi bacaan dengan masalah yang dibahas atau
+
+   dipecahkan.
+b. Kemutahiran sumber bacaan adalah 10 tahun terakhir,
+c. Jumlah minimal pustaka yang digunakan 15 sumber bacaan , yang terdiri dari
+
+   70% artikel ilmiah dan 30% (buku, prosiding, skripsi/ thesis/disertasi, majalah
+   akademik terbitan resmi, contoh : IEEE Spectrum, Nature, atau Scientific
+   American, sumber online dari Institusi resmi misalnya: BPS, Kementrian atau
+   web .gov, .ac, .edu dan bukan dari blog pribadi.
+
+3.2.3. Metode Penelitian (Bab 3)
+
+Metode penelitian menguraikan tentang cara kerja serta teknik/proses pengerjaan
+termasuk di dalamnya bahan dan peralatan (data, hasil penelitian lain, perangkat
+keras dan lunak, teori dan persamaan, teknik pengumpulan dan analisis data,
+model pendekatan yang digunakan, rancangan penelitian, cara penafsiran dan
+pengumpulan hasil penelitian, ujicoba dan cara evaluasi, serta cara pengambilan
+kesimpulan).
+Metode Penelitian harus sesuai dengan permasalahan atau topik/tema yang
+diambil. Metode penelitian harus relevan dengan tema, topik, teori yang digunakan
+dalam tugas akhir.
+Metode penelitian menjelaskan kebutuhan dan tahapan yang dilakukan dalam
+penelitian, sehingga menghasilkan tugas akhir yang berkualitas dan dapat
+dipertanggungjawabkan. Metode menjelaskan peralatan dan bahan yang
+                                                                                                                   17
+dibutuhkan dalam penelitian (jika ada) dan merunut langkah-langkah yang
+dilakukan dalam penelitian secara rinci, dalam urutan yang sistematis. Untuk
+penelitian ilmu komputer, bagian ini dapat diisi dengan uraian peralatan yang
+dibutuhkan, algoritma/metode yang digunakan, prosedur implementasi (Prototype,
+Waterfall, SDLC, Agile, SWDLC, Luther (multimedia), CRISP-DM dsb).
+Metode juga disajikan sebagai bagan atau gambar alur penelitian atau tahapan
+perancangan. Metode penelitian akan mempengaruhi struktur dan sistematika
+pembahasan pada bab pembahasan (Bab 4).
+
+3.2.4. Hasil dan Pembahasan (Bab 4)
+
+Hasil dan pembahasan harus sesuai dengan urutan yang diuraikan pada tujuan
+penelitian. Pembahasan harus sesuai dengan pokok-pokok ide yang disampaikan
+pada tujuan penelitian dan kemampuan untuk mengelaborasi narasi untuk
+menjelaskan kesenjangan penelitian. Pembahasan harus dapat menarasikan
+makna tabel dan gambar dari hasil analisis dengan kalimat yang jelas, padat dan
+singkat.
+
+3.2.5. Penutup (Bab 5)
+
+Penutup terdiri dari dua bagian yaitu Simpulan dan Saran. Simpulan, berisi
+jawaban dari tujuan yang diajukan pada bab 1, yang diperoleh dari kegiatan
+penelitian. Simpulan tidak merupakan perulangan dari bab 4.
+
+Saran ditujukan kepada pihak-pihak terkait, sehubungan dengan pengembangan
+penelitian
+
+3.3. Bagian Akhir
+
+Bagian ini terdiri dari: a. Daftar Pustaka b. Lampiran (jika ada)
+
+3.3.1 Daftar Pustaka
+
+Daftar Pustaka merupakan daftar bacaan yang menjadi sumber, atau pustaka atau
+acuan dan dasar penulisan tugas akhir. Daftar pustaka ini dapat berisi 70% artikel
+                                                                                                                   18
+ilmiah (Jurnal) dan 30% (buku, prosiding, skripsi/ thesis/disertasi, majalah
+akademik terbitan resmi, contoh : IEEE Spectrum, Nature, atau Scientific
+American, sumber online dari Institusi resmi misalnya: BPS, Kementrian atau web
+.gov, .ac, .edu dan bukan dari blog pribadi. Mahasiswa dapat menggunakan
+aplikasi penyusunan pustaka untuk membantu dan memudahkan penulisan.
+
+                  Contoh Daftar Pustaka dapat dilihat pada Lampiran 6.8
+
+3.3.2 Lampiran
+
+Lampiran merupakan data atau pelengkap atau hasil olahan yang menunjang
+penulisan tugas akhir, tetapi tidak dicantumkan di dalam isi tugas akhir, karena
+akan mengganggu kesinambungan pembacaan. Lampiran yang perlu disertakan
+dikelompokkan menurut jenisnya, antara lain jadwal, tabel, daftar pertanyaan,
+gambar, grafik, desain.
+Pada lampiran, jika berupa koding dituliskan dengan font 8 poin dalam spasi
+tunggal (line spacing = single), penomoran halaman menggunakan L-x di tengah
+bawah.
+
+4. TEKNIS PENULISAN
+
+4.1. Kertas
+
+Spesifikasi kertas yang digunakan :
+   Jenis : HVS
+   Warna : Putih polos
+   Berat : 80 gram
+   Ukuran : A4 (21,5 cm x 29,7 cm)
+
+4.2. Format Pengetikan
+
+    a. Menggunakan kertas ukuran A4
+    b. Margin Atas : 4 cm, Bawah : 3 cm
+    c. Margin Kiri : 4 cm, Kanan : 3 cm
+                                                                                                                   19
+
+    d. Jarak spasi : 1,5 spasi (khusus ABSTRAK hanya 1 spasi)
+    e. Jenis huruf (font) : Times New Roman untuk Program dapat menggunakan
+
+         Courier New" dan diketik rapi, rata kiri kanan (justify)
+    f. Ukuran / Variasi Huruf :
+
+           a. Judul Bab 14/Tebal, Huruf Kapital
+
+             b. Subbab 12/Tebal
+             c. Isi 12/Normal
+    g. Pada semua paragraf dalam subbab-subbab, tidak ada yang indent ke
+         dalam kecuali dengan menggunakan numbering.
+
+4.3 Penomoran Bab dan Subbab
+
+    a. Bab dinomori dengan menggunakan angka latin.
+    b. Subbab dinomori dengan menggunakan angka latin mengacu pada nomor
+
+         bab/subbab dimana bagian ini terdapat.
+    c. Penulisan nomor dan judul bab di tengah dengan huruf besar, ukuran huruf
+
+         14, tebal.
+    d. Penulisan nomor dan judul subbab dimulai dari kiri, dimulai dengan huruf
+
+         besar, Ukuran huruf 12 tebal.
+          Contoh :
+
+        2. JUDUL BAB
+
+          2.1. Judul Subbab
+          2.2. Judul Subbab
+          2.2.1. Judul Sub-Subbab
+     e. Setiap subbab berisikan minimum tiga (3) paragraf.
+
+4.4. Penomoran Halaman
+
+    a. Bagian Awal nomor halaman ditulis dengan angka romawi huruf kecil (i,ii,iii).
+         Posisi di tengah bawah (2 cm dari bawah). Khusus untuk lembar judul dan
+         lembar pengesahan nomor halaman tidak perlu diketik tapi tetap dihitung.
+
+    b. Bagian Pokok, nomor halaman ditulis dengan angka latin. Halaman
+         pertama dari bab pertama adalah halaman nomor satu. Peletakan nomor
+                                                                                                                   20
+
+         halaman untuk setiap awal bab di bagian bawah tengah, sedangkan
+         halaman lainnya di pojok kanan atas.
+    c. Bagian Akhir, nomor halaman ditulis di bagian tengan dengan angka latin
+         dan merupakan kelanjutan dari penomoran pada bagian pokok.
+
+4.5 Judul dan Nomor Gambar / Grafik / Tabel
+
+         a. Judul gambar/grafik diketik di bagian bawah tengah dari gambar.
+         b. Judul tabel diketik di sebelah atas tengah dari tabel.
+         c. Penomoran tergantung pada bab yang bersangkutan, contoh : Gambar
+
+             3.1. berarti gambar pertama yang ada di bab 3.
+         d. Tabel yang bersambung ke halaman berikutnya harus di repeat header.
+         e. Gambar/tabel yg bukan buatan sendiri, harus melampirkan sitasi
+
+             sumber.
+         f. Ukuran huruf 12 poin.
+         g. Semua gambar dan tabel direfer/ ditunjuk dalam tulisan, dan harus ada
+
+             penjelasan masing-masing.
+
+4.6 Penulisan Daftar Pustaka
+
+Tata cara penulisan daftar Pustaka :
+ a. Daftar Pustaka harus dibuat secara otomatis menggunakan tools, seperti
+
+     bibliography, Mendeley atau lainnya.
+ b. Format refrensi yang digunakan adalah Harvard, jika format sitasi tidak
+
+     lengkap dan tidak sesuai, wajib melengkapi dan menyesuaikan secara
+     manual.
+     (panduan penulisan pustaka Harvard dapat dilihat pada :
+     https://lib.ugm.ac.id/en/harvard-referencing-style/
+ c. Wajib mencantumkan doi artikel.
+ d. Dituliskan secara alfabetik.
+ e. Gelar tidak perlu dituliskan.
+ f. Setiap pustaka diketik dengan jarak satu spasi (rata kiri). Jarak antara
+    satu pustaka dengan pustaka lain diberi jarak dua spasi.
+                                                                                                                   21
+
+ g. Semua nama penulis ditulis lengkap.
+ h. Tahun terbit disarankan minimal 10 tahun terakhir
+
+4.7 Pengutipan atau Sitasi
+
+Cara mensitasi daftar pustaka adalah :
+a. Pengutipan sitasi menggunakan format Harvard.
+b. Jika baru pertama kali muncul, semua nama penulis disebutkan, misal (Nurhadi,
+
+   Nugraha & Suprapto, 2021), selanjutnya boleh disebutkan dengan cara
+   (Nurhadi et al., 2021).
+c. Sitasi dengan dua penulis, selalu disebutkan semuanya.
+
+5. PROSEDUR
+
+Prosedur bagi mahasiswa yang menyelesaikan skripsi mulai dari pengumuman
+bagi mahasiswa mendapatkan SK Skripsi ataupun untuk mahasiswa yang
+mengajukan proposal Skripsi. Mahasiswa program studi Sistem informasi dapat
+mengakses website https://fikti.gunadarma.ac.id/sisinformasi/
+Secara Umum prosedur mahasiswa dalam menyelesaikan skripsi adalah sebagai
+berikut:
+1. Setelah Program Studi mengumumkan nama dosen pembimbing, mahasiswa
+
+    diharapkan segera menghubungi pembimbing.
+2. Selama melakukan bimbingan, mahasiswa membawa buku bimbingan yang
+
+    dapat diunduh pada https://fikti.gunadarma.ac.id/sisinformasi/?page_id=2505
+3. Setelah mendapatkan persetujuan dari pembimbing, selain penulisan skripsi
+
+    mahasiswa berkewajiban membuat artikel ilmiah dari penulisan skripsi.
+    Template artikel ilmiah dapat dilihat pada:
+    https://fikti.gunadarma.ac.id/sisinformasi/?page_id=2505
+4. Mahasiswa mengumpulkan persyaratan sidang secara kolektif, informasi ini
+    disampaikan oleh Program studi melalui perwakilan kelas masing-masing.
+5. Program Studi mengumumkan daftar mahasiswa yang dinyatakan siap sidang
+    pada website https://fikti.gunadarma.ac.id/sisinformasi/?page_id=1112
+                                                                                                                   22
+
+6. LAMPIRAN
+
+6.1 Contoh Halaman Judul
+                                                                                                                   23
+
+6.2 Contoh Lembar Originalitas dan Publikasi
+                                                                                                                   24
+
+6.3 Contoh Lembar Pengesahan
+                                                                                                                   25
+
+6.4 Contoh Abstrak
+26
+                                                                                                                   27
+
+6.5 Contoh Kata Pengantar
+28
+                                                                                                                   29
+
+6.6 Contoh Daftar Isi
+                                                                                                                   30
+
+6.7 Contoh Daftar Tabel / Daftar Gambar / Daftar Lampiran
+31
+32
+                                                                                                                   33
+
+6.8 Contoh Daftar Pustaka
+                                                                                                                   34
+
+6.9 Contoh Penulisan Kutipan
+
+Contoh Penulisan Pengutipan:
+Kutipan kurang atau sama dari tiga baris dan diambil dari daftar pustaka no
+2.
+Metode Scrum terbukti efektif dalam meningkatkan efisiensi pengembangan
+aplikasi tanda tangan digital berbasis website dengan QR Code (Kamila, Putra, &
+Praha, 2022).
+
+Kutipan yang lebih dari tiga baris dan diambil dari daftar pustaka nomor 5.
+Scrum adalah kerangka kerja yang ringan yang membantu orang, tim, dan
+organisasi menghasilkan nilai melalui solusi adaptif untuk masalah kompleks.
+Pada dasarnya, Scrum menggunakan pendekatan iteratif dan bertahap untuk
+mengoptimalkan prediktabilitas dan mengontrol risiko. Scrum terdiri dari Scrum
+Team dan perannya, acara Scrum, artefak, serta aturan yang mengikat mereka
+Bersama (Schwaber & Sutherland, 2017).
+

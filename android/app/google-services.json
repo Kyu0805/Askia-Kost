@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688829176722",
+    "project_id": "askia-catering",
+    "storage_bucket": "askia-catering.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688829176722:android:c373391c3fc0d0cf637f4b",
+        "android_client_info": {
+          "package_name": "com.example.askia_catering_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpj646PNe1peBKoF02dGeHYwh3x0mUk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
